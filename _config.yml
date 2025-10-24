@@ -1,0 +1,4 @@
+# GitHub Pages config for docs/ build
+theme: jekyll-theme-cayman
+title: OPE Manual
+description: General Assembly OPE Loss Categories
